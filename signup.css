@@ -1,0 +1,64 @@
+.ctnr {
+color:black;
+background:white;
+border-radius:25px;
+width:480px;
+height:470px;
+margin:auto;
+}
+
+.gh {
+background:gray;
+border-radius:17px;
+width:160px;
+height:50px;
+}
+
+body, html {
+height:100%;
+}
+
+body {
+font-family:Arial;
+background-size:100%;
+background-image:url("https://media.istockphoto.com/photos/programming-code-abstract-technology-background-of-software-developer-picture-id1224500457?b=1&k=20&m=1224500457&s=612x612&w=0&h=oTvUxf6T0pKuQA5XRuePuTBxQTmB3BXWzpIl5u2iy44=");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+tt {
+opacity:0;
+}
+
+cm {
+  font-size:9px;
+}
+
+.caa {
+color:blue;
+font-size:11px;
+}
+
+input {
+border-radius:25px;
+height:32px;
+}
+
+.sbbt {
+height:40px; width:160px;
+background:#D0D0D0;
+transition:0.2s;
+}
+.sbbt:hover {
+height:40px; width:163px;
+background:white;
+transition:0.2s;
+}
+
+.sbbt:active {
+height:40px; width:163px;
+background:#009DFF;
+transition:0.2s;
+}
